@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "EVD Technology",
+    "startDate": "Jul, 2024",
+    "endDate": "Jul, 2025",
+    "experiences": ["Developed scalable web applications", "Optimized Frontend services"],
+    "imageSrc": "history/evd-technology.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Interbiz Consulting Pvt Ltd",
+    "startDate": "Mar, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Assisted in developing internal tools", "Contributed to API integrations"],
+    "imageSrc": "history/interbiz-consulting.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TexKart",
+    "imageSrc": "projects/texkart.png",
+    "description": "TexKart is a modern textile e-commerce platform enabling seamless buying and selling of fabrics and materials. Built to streamline the textile supply chain for wholesalers and retailers.",
+    "skills": ["Next.js", "TypeScript", "Node.js"],
+    "demo": "https://www.texkart.com",
+    "source": "https://www.github.com/your-texkart-repo"
+  },
+  {
+    "title": "Hypothalamus",
+    "imageSrc": "projects/hypothalamus.png",
+    "description": "Hypothalamus is a health-focused food delivery platform where meals are suggested by doctors based on the user's medical history and dietary needs.",
+    "skills": ["Next.js", "TypeScript", "Node.js", "React Native"],
+    "demo": "https://www.hypothalamus.com",
+    "source": "https://www.github.com/your-hypothalamus-repo"
+  },
+  {
+    "title": "Yoco Stays",
+    "imageSrc": "projects/yoco-stays.png",
+    "description": "Yoco Stays is a comprehensive hostel management system for student accommodations, handling bookings, payments, and room assignments.",
+    "skills": ["Next.js", "TypeScript", "Node.js", "React Native"],
+    "demo": "https://www.yocostays.com",
+    "source": "https://www.github.com/your-yoco-repo"
+  }
+]
